@@ -1,0 +1,22 @@
+Operators
++
+-
+*
+/
+^
+(
+)
+
+Functions
+sin
+cos
+tan
+exp
+ln -> log (for the fortran parser)
+sqrt
+sinh
+cosh
+tanh
+asin
+acos
+atan
