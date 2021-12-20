@@ -1,4 +1,6 @@
 # Poincare Maps of Chaotic Hamiltonian Systems
+<b><i><h4>Project originally written in 2006</h4></i></b>
+
 A program, which calculates and plots Poincare Maps of Chaotic Hamiltonian Systems
 Written in:
 * Fortran : The calculation parts
